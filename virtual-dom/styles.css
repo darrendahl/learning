@@ -1,0 +1,20 @@
+.container {
+  background-color: royalblue;
+  height: 100px;
+  width: 200px;
+  padding: 12px;
+  margin: 12px 0; 
+}
+
+.text {
+  color: white;
+  font-size: 22px;
+}
+
+.container-red{
+  background-color: maroon;
+  height: 100px;
+  width: 200px;
+  padding: 12px;
+  margin: 12px 0; 
+}
